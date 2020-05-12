@@ -1,0 +1,2 @@
+D:\VisualStudioSolutions\GrinoJ_ExerciciC++\Debug\GrinoJ_ExerciciC++.exe
+D:\VisualStudioSolutions\GrinoJ_ExerciciC++\Debug\GrinoJ_ExerciciC++.pdb
