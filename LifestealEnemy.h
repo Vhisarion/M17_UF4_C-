@@ -11,6 +11,6 @@ public:
 	void TakeDamage(float damage) override;
 	float getLife();
 	float getAttack();
-	float Attack(BasePlayer &player);
+	void Attack(BasePlayer &player);
 };
 

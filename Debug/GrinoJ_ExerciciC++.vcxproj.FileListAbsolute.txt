@@ -1,2 +1,4 @@
 D:\VisualStudioSolutions\GrinoJ_ExerciciC++\Debug\GrinoJ_ExerciciC++.exe
 D:\VisualStudioSolutions\GrinoJ_ExerciciC++\Debug\GrinoJ_ExerciciC++.pdb
+F:\VisualStudio Workspaces\VisualStudio2019\M17_UF4_C-\Debug\GrinoJ_ExerciciC++.exe
+F:\VisualStudio Workspaces\VisualStudio2019\M17_UF4_C-\Debug\GrinoJ_ExerciciC++.pdb

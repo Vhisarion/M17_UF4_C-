@@ -1,2 +1,3 @@
 ﻿  ExempleClasse.cpp
-  GrinoJ_ExerciciC++.vcxproj -> D:\VisualStudioSolutions\GrinoJ_ExerciciC++\Debug\GrinoJ_ExerciciC++.exe
+F:\VisualStudio Workspaces\VisualStudio2019\M17_UF4_C-\ExempleClasse.cpp(33,27): warning C4018: '<': no coinciden signed/unsigned
+  GrinoJ_ExerciciC++.vcxproj -> F:\VisualStudio Workspaces\VisualStudio2019\M17_UF4_C-\Debug\GrinoJ_ExerciciC++.exe

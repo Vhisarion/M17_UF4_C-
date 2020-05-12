@@ -29,5 +29,5 @@ float LifestealEnemy::getAttack() {
 }
 
 void LifestealEnemy::Attack(BasePlayer &player) {
-	player.receiveDamage(attack);
+	player.ReceiveDamage(attack);
 }
