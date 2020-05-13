@@ -37,4 +37,4 @@ Hp: 10
 
 Per calcular el temps que tens per premer la tecla, s'utilitza la funció següent on x = nombre d'enemics derrotats
 
-![Formula per calcular el temps d'atac](https://github.com/Vhisarion/M17_UF4_C-.git/Captura.png)
+![Formula per calcular el temps d'atac](https://imgur.com/kNJ6hMh)
