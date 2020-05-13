@@ -1,8 +1,8 @@
 ﻿  ExempleClasse.cpp
 D:\VisualStudioSolutions\GrinoJ_ExerciciC++\ExempleClasse.cpp(45,23): warning C4018: '<': no coinciden signed/unsigned
 D:\VisualStudioSolutions\GrinoJ_ExerciciC++\ExempleClasse.cpp(55,23): warning C4018: '<': no coinciden signed/unsigned
-D:\VisualStudioSolutions\GrinoJ_ExerciciC++\ExempleClasse.cpp(134,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-D:\VisualStudioSolutions\GrinoJ_ExerciciC++\ExempleClasse.cpp(180,34): warning C4244: 'inicializando': conversión de '_Rep' a 'long'; posible pérdida de datos
+D:\VisualStudioSolutions\GrinoJ_ExerciciC++\ExempleClasse.cpp(129,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\VisualStudioSolutions\GrinoJ_ExerciciC++\ExempleClasse.cpp(173,34): warning C4244: 'inicializando': conversión de '_Rep' a 'long'; posible pérdida de datos
           with
           [
               _Rep=__int64

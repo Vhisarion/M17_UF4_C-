@@ -24,13 +24,13 @@
     <ClCompile Include="EnrageEnemy.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="ExempleClasse.cpp">
-      <Filter>Archivos de origen</Filter>
-    </ClCompile>
     <ClCompile Include="LifestealEnemy.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
     <ClCompile Include="GreedEnemy.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="TypeFight.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>

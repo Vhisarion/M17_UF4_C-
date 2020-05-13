@@ -22,7 +22,7 @@
     <ClCompile Include="BaseEnemy.cpp" />
     <ClCompile Include="BasePlayer.cpp" />
     <ClCompile Include="EnrageEnemy.cpp" />
-    <ClCompile Include="ExempleClasse.cpp" />
+    <ClCompile Include="TypeFight.cpp" />
     <ClCompile Include="GreedEnemy.cpp" />
     <ClCompile Include="LifestealEnemy.cpp" />
   </ItemGroup>
