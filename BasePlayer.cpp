@@ -5,6 +5,11 @@ BasePlayer::BasePlayer() {
 	points = 0.0f;
 }
 
+BasePlayer::BasePlayer(float custom_life) {
+	life = custom_life;
+	points = 0.0f;
+}
+
 BasePlayer::BasePlayer(float custom_life, int custom_points) {
 	life = custom_life;
 	points = custom_points;

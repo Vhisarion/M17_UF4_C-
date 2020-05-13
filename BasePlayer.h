@@ -10,6 +10,7 @@ protected:
 public:
 
 	BasePlayer();
+	BasePlayer(float custom_life);
 	BasePlayer(float custom_life, int custom_points);
 	~BasePlayer();
 	virtual void ReceiveDamage(float damage); //Metode virtual

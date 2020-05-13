@@ -13,6 +13,7 @@
 #include <thread>
 #include <mutex>
 #include <condition_variable>
+#include "ExercicisC++.h"
 
 using namespace std;
 
@@ -68,6 +69,8 @@ void printMessage(string s) {
 
 int main()
 {
+    notMain();
+    system("cls");
     
         cout << R"(
     .___________.____    ____ .______    _______                 _______  __    _______  __    __  .___________.
