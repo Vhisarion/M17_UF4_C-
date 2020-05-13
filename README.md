@@ -37,4 +37,4 @@ Hp: 10
 
 Per calcular el temps que tens per premer la tecla, s'utilitza la funció següent on x = nombre d'enemics derrotats
 
-![Formula per calcular el temps d'atac](https://imgur.com/kNJ6hMh)
+![Formula per calcular el temps d'atac](https://i.imgur.com/kNJ6hMh.png)
