@@ -1,6 +1,6 @@
 #pragma once
 #include "BaseEnemy.h"
-class LifestealEnemy : BaseEnemy
+class LifestealEnemy : public BaseEnemy
 {
 public:
 

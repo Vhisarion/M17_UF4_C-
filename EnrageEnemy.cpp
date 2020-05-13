@@ -20,8 +20,8 @@ float EnrageEnemy::getLife() {
 void EnrageEnemy::TakeDamage(float damage) {
 	BaseEnemy::TakeDamage(damage);
 
-	if (life < 50.0f) {
-		attack *= 2.0f;
+	if (life < 5) {
+		attack += 1.0f;
 	}
 }
 float EnrageEnemy::getAttack() {

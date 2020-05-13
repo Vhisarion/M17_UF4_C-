@@ -17,5 +17,6 @@ public:
 	 float getLife();
 	 float getAttack();
 	 void Attack(BasePlayer &player);
+	 void setAttack(float attack);
 };
 

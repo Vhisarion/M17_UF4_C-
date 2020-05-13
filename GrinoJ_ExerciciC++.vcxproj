@@ -23,12 +23,14 @@
     <ClCompile Include="BasePlayer.cpp" />
     <ClCompile Include="EnrageEnemy.cpp" />
     <ClCompile Include="ExempleClasse.cpp" />
+    <ClCompile Include="GreedEnemy.cpp" />
     <ClCompile Include="LifestealEnemy.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BaseEnemy.h" />
     <ClInclude Include="BasePlayer.h" />
     <ClInclude Include="EnrageEnemy.h" />
+    <ClInclude Include="GreedEnemy.h" />
     <ClInclude Include="LifestealEnemy.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

@@ -28,3 +28,7 @@ float BaseEnemy::getAttack() {
 void BaseEnemy::Attack(BasePlayer &player) {
 	player.ReceiveDamage(attack);
 }
+
+void BaseEnemy::setAttack(float nattack) {
+	attack = nattack;
+}

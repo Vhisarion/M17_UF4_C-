@@ -19,10 +19,6 @@ float LifestealEnemy::getLife() {
 }
 void LifestealEnemy::TakeDamage(float damage) {
 	BaseEnemy::TakeDamage(damage);
-
-	if (life < 50.0f) {
-		attack *= 2.0f;
-	}
 }
 float LifestealEnemy::getAttack() {
 	return BaseEnemy::getAttack();
@@ -30,4 +26,5 @@ float LifestealEnemy::getAttack() {
 
 void LifestealEnemy::Attack(BasePlayer &player) {
 	player.ReceiveDamage(attack);
+	life += attack;
 }
