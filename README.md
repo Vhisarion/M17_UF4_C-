@@ -33,3 +33,8 @@ Hp: 10
 Enemic enfadat, cada cop que rep mal quan està a manys de la meitat de la vida, guanya +1 d'atac.
 Atk: 1
 Hp: 10
+
+
+Per calcular el temps que tens per premer la tecla, s'utilitza la funció següent on x = nombre d'enemics derrotats
+
+
